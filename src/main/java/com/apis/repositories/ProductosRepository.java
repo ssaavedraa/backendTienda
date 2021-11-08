@@ -9,4 +9,5 @@ import com.apis.documents.Productos;
 
 @Repository
 public interface ProductosRepository extends MongoRepository<Productos, Serializable>{
+	
 }
